@@ -1,0 +1,6 @@
+requests==2.21.0
+PyMySQL==1.0.2
+allure_python_commons==2.8.0
+colorlog==5.0.1
+pytest==6.2.3
+ruamel.base==1.0.0

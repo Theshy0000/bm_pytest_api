@@ -1,0 +1,31 @@
+- billCommonNo: ''
+  status:
+  makeBillStatus:
+  projectNos: []
+  commonCompanyName: ''
+  year: '2022'
+  month: '07'
+  billType: UP
+  size: 20
+  page: 1
+- billCommonNo: ''
+  status:
+  makeBillStatus:
+  projectNos:
+  - 320SF000206003
+  commonCompanyName: ''
+  year: '2022'
+  month: '07'
+  billType: UP
+  size: 20
+  page: 1
+- billCommonNo: ''
+  status: RECONCILIATIONING
+  makeBillStatus:
+  projectNos: []
+  commonCompanyName: ''
+  year: '2022'
+  month: '07'
+  billType: UP
+  size: 20
+  page: 1

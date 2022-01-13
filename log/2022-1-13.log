@@ -1,0 +1,15 @@
+[2022-01-13  10:04:59] bill_search_test.py -> test_bill_search line:19 [INFO] : 测试
+[2022-01-13  10:05:00] bill_search_test.py -> test_bill_search line:19 [INFO] : 测试
+[2022-01-13  10:05:01] bill_search_test.py -> test_bill_search line:19 [INFO] : 测试
+[2022-01-13  11:13:19] bill_search_test.py -> test_bill_search line:23 [INFO] : 测试
+[2022-01-13  11:13:20] bill_search_test.py -> test_bill_search line:23 [INFO] : 测试
+[2022-01-13  11:13:21] bill_search_test.py -> test_bill_search line:23 [INFO] : 测试
+[2022-01-13  11:35:48] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  11:35:49] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  11:35:50] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  13:50:17] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  13:50:19] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  13:50:20] bill_search_test.py -> test_bill_search line:22 [INFO] : 测试
+[2022-01-13  13:57:11] bill_search_test.py -> test_bill_search line:23 [INFO] : 接口地址:/bill/getBillCommonList ,请求参数:{'billCommonNo': '', 'status': None, 'makeBillStatus': None, 'projectNos': [], 'commonCompanyName': '', 'year': '2022', 'month': '07', 'billType': 'UP', 'size': 20, 'page': 1},返回结果:{'code': 0, 'msg': '成功', 'content': {'page': None, 'size': None, 'total': 0, 'title': None, 'data': [], 'totalPages': 1}}
+[2022-01-13  13:57:13] bill_search_test.py -> test_bill_search line:23 [INFO] : 接口地址:/bill/getBillCommonList ,请求参数:{'billCommonNo': '', 'status': None, 'makeBillStatus': None, 'projectNos': ['320SF000206003'], 'commonCompanyName': '', 'year': '2022', 'month': '07', 'billType': 'UP', 'size': 20, 'page': 1},返回结果:{'code': 0, 'msg': '成功', 'content': {'page': None, 'size': None, 'total': 0, 'title': None, 'data': [], 'totalPages': 1}}
+[2022-01-13  13:57:14] bill_search_test.py -> test_bill_search line:23 [INFO] : 接口地址:/bill/getBillCommonList ,请求参数:{'billCommonNo': '', 'status': 'RECONCILIATIONING', 'makeBillStatus': None, 'projectNos': [], 'commonCompanyName': '', 'year': '2022', 'month': '07', 'billType': 'UP', 'size': 20, 'page': 1},返回结果:{'code': 0, 'msg': '成功', 'content': {'page': None, 'size': None, 'total': 0, 'title': None, 'data': [], 'totalPages': 1}}
